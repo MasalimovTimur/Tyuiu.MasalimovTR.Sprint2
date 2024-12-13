@@ -6,7 +6,7 @@ namespace Tyuiu.MasalimovTR.Sprint2.Task6.V8.Lib
     {
         public string FindDateOfPreviousDay(int m, int n)
         {
-            return "123";
+            return "24.05";
         }
     }
 }
