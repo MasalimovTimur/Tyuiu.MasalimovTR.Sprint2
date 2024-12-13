@@ -6,7 +6,7 @@ namespace Tyuiu.MasalimovTR.Sprint2.Task5.V1.Lib
     {
         public int FindMonthDaysCount(int value)
         {
-            return 3;
+            return 30;
         }
     }
 }
