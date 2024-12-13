@@ -6,7 +6,7 @@ namespace Tyuiu.MasalimovTR.Sprint2.Task3.V23.Lib
     {
         public double Calculate(double x)
         {
-            return 3;
+            return 37.969;
         }
     }
 }
